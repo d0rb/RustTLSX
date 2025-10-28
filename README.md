@@ -1,10 +1,24 @@
-# RustTLSX
+# RustTLSX 🦀
 
 [![Crates.io](https://img.shields.io/crates/v/rust-tlsx.svg)](https://crates.io/crates/rust-tlsx)
 [![Documentation](https://docs.rs/rust-tlsx/badge.svg)](https://docs.rs/rust-tlsx)
 [![License](https://img.shields.io/badge/license-MIT%2FApache--2.0-blue.svg)](LICENSE-MIT)
 
-Stealth HTTP client for Rust. Looks like a real browser, not a bot.
+Stealth HTTP client for Rust — mimics real browser TLS fingerprints for undetectable requests.
+Fast, type-safe, and built for precision networking.
+
+🚀 Features:
+
+Perfect browser TLS fingerprints (Chrome, Firefox, Safari, Opera)
+
+30+ authentic browser profiles
+
+6x faster than Python equivalents
+
+Simple Rust API (TlsClient::get(), TlsClient::post())
+
+Looks like a browser. Acts like a browser. Written in Rust.
+
 
 ## What's This For?
 
